@@ -1,0 +1,75 @@
+[
+    {
+      "name": "Glass bottle",
+      "description": "The Calming Qualities of Lavender Oil In Scented Products",
+      "price": 250,
+      "imagePath": "/image/img1.jpeg"
+    },
+    {
+      "name": "Product 2",
+      "description": "Gaia Green Tea – Lemon & Honey Gaia Green Tea – Lemon & Honey",
+      "price":299,
+      "imagePath": "/image/img2.jpg"
+    },
+    {
+      "name": "Product 3",
+      "description": "Naturolax-A Orange Flavour Isabgol Powder 100 gm",
+      "price": 199,
+      "imagePath": "/image/img3.jpg"
+    },
+    {
+        "name": "Product 4",
+        "description": "This is a description for product 4.",
+        "price": 100,
+        "imagePath": "/image/img4.avif"
+      },
+      {
+        "name": "Product 5",
+        "description": "This is a description for product 5.",
+        "price": 200,
+        "imagePath": " /image/img5.jpg"
+      },
+      {
+        "name": "Product 6",
+        "description": "This is a description for product 6.",
+        "price": 300,
+        "imagePath": "/image/img6.jpg"
+      },
+      {
+        "name": "Product 7",
+        "description": "This is a description for product 7.",
+        "price": 100,
+        "imagePath": "/image/img7.jpg"
+      },
+      {
+        "name": "Product 8",
+        "description": "This is a description for product 8.",
+        "price": 200,
+        "imagePath": "/image/img8.png"
+      },
+      {
+        "name": "Product 9",
+        "description": "This is a description for product 9.",
+        "price": 300,
+        "imagePath": "/image/img9.jpg"
+      },
+      {
+        "name": "Product 10",
+        "description": "This is a description for product 10.",
+        "price": 100,
+        "imagePath": "/image/im10.jpg"
+      },
+      {
+        "name": "Product 11",
+        "description": "This is a description for product 11.",
+        "price": 200,
+        "imagePath": "image/img11.png"
+      },
+      {
+        "name": "Product 12",
+        "description": "This is a description for product 12.",
+        "price": 300,
+        "imagePath": "/image/img12.webp"
+      }
+
+  ]

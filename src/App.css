@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,63 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color:#abb;
+}
+
+.App {
+  text-align: center;
+  margin: 0px 50px;
+}
+
+.ProductList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1rem;
+  padding: 1rem;
+}
+
+.ProductCard {
+  background-color: #f8f8f8;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.ProductCard img {
+  width: 100%;
+  height: auto;
+}
+
+.ProductCard h2 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.ProductCard p {
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.App1{
+  font-weight: bold;
+  font-size: 38px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ProductList{
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
